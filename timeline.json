@@ -34,7 +34,7 @@
             },
             "text": {
                 "headline": "American Family Insurance: Data Scientist II",
-                "text": "Bullet points about achievements here"
+                "text": "<ul><li>Wrote and presented an ML Ops paper at the IEEE DSAA conference</li><li>Built a computer vision model integrating both image and tabular data to identify property attributes</li><li>Mentored two data science interns by holding 1-on-1 meetings, guiding project work and coaching on best practices</li></ul>"
             },
             "media": {
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
@@ -56,7 +56,7 @@
             },
             "text": {
                 "headline": "American Family Insurance: Data Scientist I",
-                "text": "Bullet points about achievements here"
+                "text": "<ul><li>Leveraged NLP (TF-IDF) methods to identify trends in property defects</li><li>Trained and evaluated Random Forest models for risk prediction</li><li>Promoted fair hiring procedures by creating and implementing a structured evaluation rubric</li></ul>"
             },
             "media": {
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
