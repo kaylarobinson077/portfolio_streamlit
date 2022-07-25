@@ -59,7 +59,7 @@
         },
         {
             "start_date": {
-                "year": "2018",
+                "year": "2019",
                 "month": "7"
             },
             "end_date": {
@@ -82,7 +82,7 @@
                 "month": "6"
             },
             "end_date": {
-                "year": "2018",
+                "year": "2019",
                 "month": "7"
             },
             "text": {
@@ -168,6 +168,139 @@
             "media": {
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg"
+            },
+            "group": "Volunteering"
+        },
+        {
+            "start_date": {
+                "year": "2014",
+                "month": "5"
+            },
+            "end_date": {
+                "year": "2014",
+                "month": "8"
+            },
+            "text": {
+                "headline": "Massachusetts General Hospital: Summer Fellow",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "8"
+            },
+            "end_date": {
+                "year": "2014",
+                "month": "5"
+            },
+            "text": {
+                "headline": "University of Southern California: Research Assistant",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2013",
+                "month": "5"
+            },
+            "end_date": {
+                "year": "2013",
+                "month": "8"
+            },
+            "text": {
+                "headline": "Lawrence Berkeley National Labratory: Intern",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "5"
+            },
+            "end_date": {
+                "year": "2012",
+                "month": "8"
+            },
+            "text": {
+                "headline": "University of Washington: Research Assistant",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2012",
+                "month": "1"
+            },
+            "end_date": {
+                "year": "2012",
+                "month": "5"
+            },
+            "text": {
+                "headline": "Joint Educational Project: Science Teacher",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+            },
+            "group": "Volunteering"
+        },
+        {
+            "start_date": {
+                "year": "2013",
+                "month": "8"
+            },
+            "end_date": {
+                "year": "2015",
+                "month": "6"
+            },
+            "text": {
+                "headline": "Science Outreach: Science Teacher",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+            },
+            "group": "Volunteering"
+        },
+        {
+            "start_date": {
+                "year": "2014",
+                "month": "3"
+            },
+            "end_date": {
+                "year": "2015",
+                "month": "6"
+            },
+            "text": {
+                "headline": "Inter-Health Council",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
             "group": "Volunteering"
         }
