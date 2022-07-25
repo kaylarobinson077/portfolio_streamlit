@@ -15,8 +15,8 @@
                 "text": "<ul><li>Lead a Data Science Team with 4 members through regular 1-on-1 meetings, onboarding support, and a team initiative</li><li>Lead the development of an AI and data-driven home maintenance advice product from inception to deployment</li><li>Built and deployed computer vision models to support risk identification</li></ul>"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg"
             },
             "group": "Career",
             "background": {
@@ -37,8 +37,8 @@
                 "text": "<ul><li>Wrote and presented an ML Ops paper at the IEEE DSAA conference</li><li>Built a computer vision model integrating both image and tabular data to identify property attributes</li><li>Mentored two data science interns by holding 1-on-1 meetings, guiding project work and coaching on best practices</li></ul>"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg"
             },
             "group": "Career",
             "background": {
@@ -59,8 +59,8 @@
                 "text": "<ul><li>Leveraged NLP (TF-IDF) methods to identify trends in property defects</li><li>Trained and evaluated Random Forest models for risk prediction</li><li>Promoted fair hiring procedures by creating and implementing a structured evaluation rubric</li></ul>"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/amfam.jpeg"
             },
             "group": "Career",
             "background": {
@@ -81,8 +81,8 @@
                 "text": "<ul><li>Performed uplift modeling for a clothing retailer to optimize the level of personalized discount amounts to drive sales while minimizing losses to discounts</li><li>Built and maintained data pipelines for extracting and transforming survey data for presentation in a client-facing dashboard application</li><li>Performed advanced analysis on national and global survey data for a global technology company to understand public sentiment and behavior of their customers</li></ul>"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/civis.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/civis.jpeg"
             },
             "group": "Career",
             "background": {
@@ -103,8 +103,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uchicago.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uchicago.jpeg"
             },
             "group": "Education",
             "background": {
@@ -125,8 +125,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg"
             },
             "group": "Education",
             "background": {
@@ -148,8 +148,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/codeforchicago.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/codeforchicago.jpeg"
             },
             "group": "Volunteering",
             "background": {
@@ -171,8 +171,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/wwc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/wwc.jpeg"
             },
             "group": "Volunteering",
             "background": {
@@ -193,8 +193,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uchicagomed.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uchicagomed.jpeg"
             },
             "group": "Volunteering",
             "background": {
@@ -215,8 +215,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/mgh.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/mgh.jpeg"
             },
             "group": "Career",
             "background": {
@@ -237,8 +237,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg"
             },
             "group": "Career",
             "background": {
@@ -259,8 +259,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/lbnl.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/lbnl.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/lbnl.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/lbnl.jpeg"
             },
             "group": "Career",
             "background": {
@@ -281,8 +281,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uw.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/uw.jpeg"
             },
             "group": "Career",
             "background": {
@@ -303,8 +303,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg"
             },
             "group": "Volunteering",
             "background": {
@@ -325,8 +325,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg"
             },
             "group": "Volunteering",
             "background": {
@@ -347,8 +347,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/timeline_logos/usc.jpeg"
             },
             "group": "Volunteering",
             "background": {

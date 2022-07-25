@@ -1,3 +1,4 @@
+from datetime import date
 import json
 import streamlit.components.v1 as components
 
@@ -6,8 +7,35 @@ Decided to fork off of the existing package to support additional customizations
 for use in this portfolio.
 """
 
-def timeline(data, height=800, start_at_end=True):
+def assign_present_date(data):
+    """Replace designated dates with the current dates.
 
+    Parameters
+    ----------
+    data : dict
+        json-formatted data in the timeline-js format, where any date whose
+        `display_date` is set to `Present` has the date value replaced with today's date
+        
+    Returns
+    -------
+    data : dict
+        Copy of the input value, with today's date passed in for designated events
+    """
+    today = date.today()
+    today_date = {
+        "year": str(today.year),
+        "month": str(today.month),
+        "display_date": "Present"
+    }
+    
+    for event in data["events"]:
+        for date_key in ["start_date", "end_date"]:
+            if event[date_key].get("display_date") == "Present":
+                event[date_key] = today_date
+    
+    return data
+
+def timeline(data, height=800, start_at_end=True):
     """Create a new timeline component.
 
     Parameters
@@ -25,10 +53,13 @@ def timeline(data, height=800, start_at_end=True):
 
     # if string then to json
     if isinstance(data, str):
-        data = json.loads(data)
-
+        data = json.loads(data) 
+    
+    # update `Present` dates to today
+    data = assign_present_date(data)
+    
     # json to string
-    json_text = json.dumps(data) 
+    json_text = json.dumps(data)
 
     # load json
     source_param = 'timeline_json'
