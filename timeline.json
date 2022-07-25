@@ -113,6 +113,63 @@
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
             "group": "Education"
+        },
+        {
+            "start_date": {
+                "year": "2022",
+                "month": "4"
+            },
+            "end_date": {
+                "year": "2022",
+                "month": "7"
+            },
+            "text": {
+                "headline": "Code for Chicago: Data Lead",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg"
+            },
+            "group": "Volunteering"
+        },
+        {
+            "start_date": {
+                "year": "2022",
+                "month": "3"
+            },
+            "end_date": {
+                "year": "2022",
+                "month": "7"
+            },
+            "text": {
+                "headline": "Women Who Code: Speaker and Volunter",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg"
+            },
+            "group": "Volunteering"
+        },
+        {
+            "start_date": {
+                "year": "2015",
+                "month": "12"
+            },
+            "end_date": {
+                "year": "2017",
+                "month": "1"
+            },
+            "text": {
+                "headline": "University of Chicago Medicine: Child Life Volunteer",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg"
+            },
+            "group": "Volunteering"
         }
     ]
 }
