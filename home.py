@@ -3,8 +3,8 @@ from utils.streamlit_timeline import timeline
 import json
 
 st.set_page_config(
-    page_title="Timeline",
-    page_icon="📅",
+    page_title="Home",
+    page_icon="👋",
     layout="wide"
 )
 
