@@ -7,17 +7,21 @@
             },
             "end_date": {
                 "year": "2022",
-                "month": "7"
+                "month": "7",
+                "display_date": "Present"
             },
             "text": {
                 "headline": "American Family Insurance: Data Scientist III",
-                "text": "Bullet points about achievements here"
+                "text": "<ul><li>Lead a Data Science Team with 4 members through regular 1-on-1 meetings, onboarding support, and a team initiative</li><li>Lead the development of an AI and data-driven home maintenance advice product from inception to deployment</li><li>Built and deployed computer vision models to support risk identification</li></ul>"
             },
             "media": {
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#0a52a5"
+            }
         },
         {
             "start_date": {
@@ -36,7 +40,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#0a52a5"
+            }
         },
         {
             "start_date": {
@@ -55,7 +62,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#0a52a5"
+            }
         },
         {
             "start_date": {
@@ -68,13 +78,16 @@
             },
             "text": {
                 "headline": "Civis Analytics: Data Scientist II",
-                "text": "Bullet points about achievements here"
+                "text": "<ul><li>Performed uplift modeling for a clothing retailer to optimize the level of personalized discount amounts to drive sales while minimizing losses to discounts</li><li>Built and maintained data pipelines for extracting and transforming survey data for presentation in a client-facing dashboard application</li><li>Performed advanced analysis on national and global survey data for a global technology company to understand public sentiment and behavior of their customers</li></ul>"
             },
             "media": {
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#1d7b95"
+            }
         },
         {
             "start_date": {
@@ -93,7 +106,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg"
             },
-            "group": "Education"
+            "group": "Education",
+            "background": {
+                "color": "#690002"
+            }
         },
         {
             "start_date": {
@@ -112,7 +128,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
-            "group": "Education"
+            "group": "Education",
+            "background": {
+                "color": "#840f18"
+            }
         },
         {
             "start_date": {
@@ -121,7 +140,8 @@
             },
             "end_date": {
                 "year": "2022",
-                "month": "7"
+                "month": "7",
+                "display_date": "Present"
             },
             "text": {
                 "headline": "Code for Chicago: Data Lead",
@@ -131,7 +151,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/codeforchicago.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#2c8bce"
+            }
         },
         {
             "start_date": {
@@ -140,7 +163,8 @@
             },
             "end_date": {
                 "year": "2022",
-                "month": "7"
+                "month": "7",
+                "display_date": "Present"
             },
             "text": {
                 "headline": "Women Who Code: Speaker and Volunter",
@@ -150,7 +174,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/wwc.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#226d6b"
+            }
         },
         {
             "start_date": {
@@ -169,7 +196,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicagomed.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#690002"
+            }
         },
         {
             "start_date": {
@@ -188,7 +218,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/mgh.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#128992"
+            }
         },
         {
             "start_date": {
@@ -207,7 +240,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#840f18"
+            }
         },
         {
             "start_date": {
@@ -223,10 +259,13 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
-                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/lbnl.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/lbnl.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#0c252e"
+            }
         },
         {
             "start_date": {
@@ -245,7 +284,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uw.jpeg"
             },
-            "group": "Career"
+            "group": "Career",
+            "background": {
+                "color": "#26005c"
+            }
         },
         {
             "start_date": {
@@ -264,7 +306,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#840f18"
+            }
         },
         {
             "start_date": {
@@ -283,7 +328,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#840f18"
+            }
         },
         {
             "start_date": {
@@ -302,7 +350,10 @@
                 "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
                 "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
             },
-            "group": "Volunteering"
+            "group": "Volunteering",
+            "background": {
+                "color": "#840f18"
+            }
         }
     ]
 }
