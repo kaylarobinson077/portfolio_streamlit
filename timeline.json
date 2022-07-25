@@ -14,7 +14,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
             "group": "Career"
         },
@@ -32,7 +33,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
             "group": "Career"
         },
@@ -50,7 +52,8 @@
                 "text": "Bullet points about achievements here"
             },
             "media": {
-                "url": "images/amfam.jpeg"
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/amfam.jpeg"
             },
             "group": "Career"
         },
@@ -66,7 +69,12 @@
             "text": {
                 "headline": "Civis Analytics: Data Scientist II",
                 "text": "Bullet points about achievements here"
-            }
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/civis.jpeg"
+            },
+            "group": "Career"
         },
         {
             "start_date": {
@@ -80,7 +88,12 @@
             "text": {
                 "headline": "University of Chicago: Graduate Student",
                 "text": "Bullet points about achievements here"
-            }
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/uchicago.jpeg"
+            },
+            "group": "Education"
         },
         {
             "start_date": {
@@ -94,7 +107,12 @@
             "text": {
                 "headline": "University of Southern California: Underaduate Student",
                 "text": "Bullet points about achievements here"
-            }
+            },
+            "media": {
+                "url": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg",
+                "thumbnail": "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/images/usc.jpeg"
+            },
+            "group": "Education"
         }
     ]
 }
