@@ -1,0 +1,100 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "2022",
+                "month": "1"
+            },
+            "end_date": {
+                "year": "2022",
+                "month": "7"
+            },
+            "text": {
+                "headline": "American Family Insurance: Data Scientist III",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "images/amfam.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2021",
+                "month": "6"
+            },
+            "end_date": {
+                "year": "2022",
+                "month": "1"
+            },
+            "text": {
+                "headline": "American Family Insurance: Data Scientist II",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "images/amfam.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2020",
+                "month": "9"
+            },
+            "end_date": {
+                "year": "2021",
+                "month": "6"
+            },
+            "text": {
+                "headline": "American Family Insurance: Data Scientist I",
+                "text": "Bullet points about achievements here"
+            },
+            "media": {
+                "url": "images/amfam.jpeg"
+            },
+            "group": "Career"
+        },
+        {
+            "start_date": {
+                "year": "2018",
+                "month": "7"
+            },
+            "end_date": {
+                "year": "2020",
+                "month": "9"
+            },
+            "text": {
+                "headline": "Civis Analytics: Data Scientist II",
+                "text": "Bullet points about achievements here"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2015",
+                "month": "6"
+            },
+            "end_date": {
+                "year": "2018",
+                "month": "7"
+            },
+            "text": {
+                "headline": "University of Chicago: Graduate Student",
+                "text": "Bullet points about achievements here"
+            }
+        },
+        {
+            "start_date": {
+                "year": "2011",
+                "month": "8"
+            },
+            "end_date": {
+                "year": "2015",
+                "month": "6"
+            },
+            "text": {
+                "headline": "University of Southern California: Underaduate Student",
+                "text": "Bullet points about achievements here"
+            }
+        }
+    ]
+}
