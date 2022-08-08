@@ -1,10 +1,8 @@
 - title: "Transfer Learning From Convolutional Neural Networks for Computer-Aided Diagnosis: A Comparison of Digital Breast Tomosynthesis and Full-Field Digital Mammography"
   link: "https://www.sciencedirect.com/science/article/abs/pii/S1076633218303337"
-  authors: "Kayla Robinson, Hui Li, Deepa Sheth, Maryellen Giger"
+  authors: "**Kayla Robinson**, Hui Li, Deepa Sheth, Maryellen Giger"
   journal: "Academic Radiology"
-  date: "May 16, 2019"
-  type: "Journal Article"
-  image: "https://github.com/kaylarobinson077/portfolio_streamlit/raw/main/data/publication_thumbnails/cnn_dbt.jpeg"
+  date: "May 2019"
   tags: ["digital breast tomosynthesis", "mammography", "deep learning", "convolutional neural networks",  "computer-aided diagnosis"]
 
   abstract: >
@@ -19,3 +17,21 @@
       
     **Conclusion**  
     DBT performed significantly better than FFDM in the merged view classification of mass and ARD lesions. The increased performance suggests that the information extracted by the CNN from DBT images may be more relevant to lesion malignancy status than the information extracted from FFDM images. Therefore, this study provides supporting evidence for the efficacy of computer-aided diagnosis on DBT in the evaluation of mass and ARD lesions.
+- title: "Radiomics robustness assessment and classification evaluation: A two‐stage method demonstrated on multivendor FFDM"
+  link: "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13455"
+  authors: "Kayla Robinson, Hui Li, Li Lan, David Schacht, Maryellen Giger"
+  journal: "Medical Physics"
+  date: "May 2019"
+  tags: ["robustness", "radiomics", "mammography", "clustering", "feature selection"]
+  abstract: >
+    **Purpose**
+    Radiomic texture analysis is typically performed on images acquired under specific, homogeneous imaging conditions. These controlled conditions may not be representative of the range of imaging conditions implemented clinically. We aim to develop a two-stage method of radiomic texture analysis that incorporates the reproducibility of individual texture features across imaging conditions to guide the development of texture signatures which are robust across mammography unit vendors.
+      
+    **Methods**
+    Full-field digital mammograms were retrospectively collected for women who underwent screening mammography on both a Hologic Lorad Selenia and GE Senographe 2000D system. Radiomic features were calculated on manually placed regions of interest in each image. In stage one (robustness assessment), we identified a set of nonredundant features that were reproducible across the two different vendors. This was achieved through hierarchical clustering and application of robustness metrics. In stage two (classification evaluation), we performed stepwise feature selection and leave-one-out quadratic discriminant analysis (QDA) to construct radiomic signatures. We refer to this two-state method as robustness assessment, classification evaluation (RACE). These radiomic signatures were used to classify the risk of breast cancer through receiver operator characteristic (ROC) analysis, using the area under the ROC curve as a figure of merit in the task of distinguishing between women with and without high-risk factors present. Generalizability was investigated by comparing the classification performance of a feature set on the images from which they were selected (intravendor) to the classification performance on images from the vendor on which it was not selected (intervendor). Intervendor and intravendor performances were also compared to the performance obtained by implementing ComBat, a feature-level harmonization method and to the performance by implementing ComBat followed by RACE.
+      
+    **Results**
+    Generalizability, defined as the difference between intervendor and intravendor classification performance, was shown to monotonically decrease as the number of clusters used in stage one increased (Mann–Kendall P < 0.001). Intravendor performance was not shown to be statistically different from ComBat harmonization while intervendor performance was significantly higher than ComBat. No significant difference was observed between either of the single methods and the use of ComBat followed by RACE.
+      
+    **Conclusions**
+    A two-stage method for robust radiomic signature construction is proposed and demonstrated in the task of breast cancer risk assessment. The proposed method was used to assess generalizability of radiomic texture signatures at varying levels of feature robustness criteria. The results suggest that generalizability of feature sets monotonically decreases as reproducibility of features decreases. This trend suggests that considerations of feature robustness in feature selection methodology could improve classifier generalizability in multifarious full-field digital mammography datasets collected on various vendor units. Additionally, harmonization methods such as ComBat may hold utility in classification schemes and should continue to be investigated.

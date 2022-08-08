@@ -4,6 +4,8 @@ from annotated_text import annotated_text
 import yaml
 from htbuilder import H, HtmlElement, styles
 from htbuilder.units import unit
+from colorhash import ColorHash
+import pandas as pd
 
 # Only works in 3.7+: from htbuilder import div, span
 div = H.div
@@ -13,24 +15,6 @@ px = unit.px
 rem = unit.rem
 em = unit.em
 
-TAG_COLORS = {
-    "data science": "#ff4b4b",
-    "medical physics": "#ffa421",
-    "ml ops": "#ffe312",
-    "insurance": "#21c354",
-    "digital breast tomosynthesis": "#00d4b1", 
-    "mammography": "#00c0f2",
-    "deep learning": "#1c83e1",
-    "convolutional neural networks": "#803df5",
-    "computer-aided diagnosis": "#808495",
-}
-
-# Colors from the Streamlit palette.
-# These are red-70, orange-70, ..., violet-70, gray-70.
-
-OPACITIES = [
-    "33", "66",
-]
 
 with open("data/publications.yaml", 'r') as stream:
     data = (yaml.safe_load(stream))
@@ -40,11 +24,11 @@ def render_tag(tag: str, color: str):
 
     if color:
         color_style['color'] = color
-
-    # background = None
-    # if not background:
-    # label_sum = sum(ord(c) for c in tag)
-    background_color = TAG_COLORS[tag]
+    
+    # hash tag string to get a hex color
+    # by using a hash, the color is deterministic
+    background_color = ColorHash(tag).hex
+    
     background_opacity = "33"
     background = background_color + background_opacity
         
@@ -81,25 +65,38 @@ def render_tags(tags: list) -> str:
         out(html.escape(" "))
 
     tag_string = str(out)
-    st.markdown(
-        tag_string,
-        unsafe_allow_html=True,
-    )
+    return tag_string
+    
+    # st.markdown(
+    #     tag_string,
+    #     unsafe_allow_html=True,
+    # )
+    
 
     
 def publication_element(pub_data: dict):
     
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown(f'**[{pub_data["title"]}]({pub_data["link"]})**')
-        st.markdown(pub_data["authors"])
-        st.markdown(pub_data["journal"])
-        st.markdown(pub_data["date"])
-        # st.markdown(pub_data["type"])
-        render_tags(pub_data["tags"])
-        with st.expander("Abstract"):
-            st.write(pub_data["abstract"])
-    with col2:
-        st.image(pub_data["image"])
+
+    # table_data = {
+    #     "Authors": pub_data["authors"],
+    #     "Publication": pub_data["journal"],
+    #     "Publication Date": pub_data["date"],
+    #     "Format": pub_data["format"]
+    # }
+    table_markdown = f"""
+    | Title            | [{pub_data["title"]}]({pub_data["link"]}) |
+    |------------------|-----------|
+    | Authors          | {pub_data["authors"]} |
+    | Publication Date | {pub_data["date"]} |
+    | Journal          | {pub_data["journal"]}|
+    | Full-text Link   | {pub_data["link"]} |
+    | Keywords         | {render_tags(pub_data["tags"])} |
+    """
+    st.markdown(table_markdown, unsafe_allow_html=True)
     
-publication_element(data[0])
+    with st.expander("Abstract"):
+        st.write(pub_data["abstract"])
+
+    
+for pub in data:
+    publication_element(pub)
